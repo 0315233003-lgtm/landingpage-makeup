@@ -5,11 +5,20 @@ body {
 }
 .header {
 
+    background-color: white;
+    color: pink;
+}
+
+.header h2{
+    font-size: medium
+}
+.nav a {
+    color: beige;
 }
 
 .hero {
 
-}
+} 
 
 .products {
 
