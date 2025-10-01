@@ -1,6 +1,6 @@
 body {
     background-color: rgb(240, 209, 216);
-    color: white;
+    color: rgb(0, 0, 0);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .header {
@@ -10,10 +10,10 @@ body {
 }
 
 .header h2{
-    font-size: medium
+    font-size: xx-large;
 }
 .nav a {
-    color: beige;
+    color: rgb(255, 155, 206);
 }
 
 .hero {
