@@ -1,3 +1,6 @@
+* {
+    margin: 0;
+}
 body {
     background-color: rgb(240, 209, 216);
     color: rgb(0, 0, 0);
@@ -7,6 +10,8 @@ body {
 
     background-color: white;
     color: pink;
+    height: 100;
+    padding: 20px;
 }
 
 .header h2{
@@ -14,14 +19,29 @@ body {
 }
 .nav a {
     color: rgb(255, 155, 206);
+    text-decoration: none;
+    margin-left: 4px;
+    margin-right: 4px;
 }
 
 .hero {
 
+    height: 100vh;
 } 
+
+.hero h1 {
+
+    margin: 20px;
+}
+.hero p {
+    margin: 20px;
+}
 
 .products {
 
+}
+.card img {
+    width: 200px;
 }
 
 .shop {
